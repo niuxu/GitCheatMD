@@ -5,8 +5,8 @@ I want to make a gitcheat of markdown version
 
 ## Project address
 
-*HTTP:`https://github.com/niuxu/GitCheatMD.git`
-*Git:`git://github.com/niuxu/GitCheatMD.git`
+* HTTP: `https://github.com/niuxu/GitCheatMD.git` .
+* Git: `git://github.com/niuxu/GitCheatMD.git` .
 
 ## Clone it
 	$ git clone git://github.com/niuxu/GitCheatMD.git
